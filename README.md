@@ -1,5 +1,7 @@
 # CRUD App Tutorial
 
+![](./image.png)
+
 This contains the finished code for the tutorial on [building a CRUD dApp](https://docs.near.org/docs/tutorials/apps/todos-crud-app)
 
 # Notes
